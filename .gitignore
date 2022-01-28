@@ -1,0 +1,17 @@
+.idea
+__pycache__/
+DEV/
+templates/
+combinedIndex.txt
+index.txt
+index1.txt
+index2.txt
+index3.txt
+index4.txt
+index5.txt
+Pipfile
+Pipfile.lock
+proj3code.zip
+termByteIndex.txt
+test.txt
+urlMap.txt
